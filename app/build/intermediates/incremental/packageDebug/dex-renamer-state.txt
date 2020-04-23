@@ -1,0 +1,7 @@
+#Thu Mar 19 14:05:37 MDT 2020
+base.0=/Users/brant/Documents/GitHub/All-Project-Code-Repositories-/River_Mile/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2eb5affbf63cf4c7588400b93751ebb0f13e4b7d
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/brant/Documents/GitHub/All-Project-Code-Repositories-/River_Mile/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_33f4aaae280799edcb1d520ba5072937ae7bed56/classes.dex
+base.1=/Users/brant/Documents/GitHub/All-Project-Code-Repositories-/River_Mile/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_33f4aaae280799edcb1d520ba5072937ae7bed56
+file.0=/Users/brant/Documents/GitHub/All-Project-Code-Repositories-/River_Mile/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_2eb5affbf63cf4c7588400b93751ebb0f13e4b7d/classes.dex
